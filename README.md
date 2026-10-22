@@ -9,8 +9,7 @@ Bộ khung source code cho đồ án khai thác dữ liệu. Các notebook đư�
 ```text
 DoAn_DataMining_Parkinson/
 ├── data/
-│   ├── D07 - parkinsons.data.xlsx   # Đặt file dữ liệu gốc tại đây
-│   └── README.md
+│   ├── D07 - parkinsons.data.xlsx  
 ├── notebooks/
 │   ├── 01_KhamPha_TienXuLy.ipynb
 │   └── 02_ChonDacTrung_MoHinh.ipynb
